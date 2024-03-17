@@ -83,7 +83,7 @@ Here are some ideas to get you started:
       </td>
       <td width="25%" align="center">
         <span>Hugging Face</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/hugging.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/hugging-face.svg">
       </td>
       </tr>
   </tbody>
