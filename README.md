@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗧𝗲𝗻𝘀𝗼𝗿𝗳𝗹𝗼𝘄</span><br><br><br>
+        <span>𝗧ensorF𝗹ow</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="25%" align="center">
@@ -44,20 +44,20 @@ Here are some ideas to get you started:
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗔𝗱𝗼𝗯𝗲 𝗫𝗗</span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/303109/adobe-xd-logo.svg">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span>Numpy</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
       </td>
     </tr>
 <!--     <tr valign="top">
@@ -70,20 +70,20 @@ Here are some ideas to get you started:
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+        <span>Pandas</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
       <td width="25%" align="center">
-        <span>React JS</span><br><br><br>
-        <img height="100px" width="100px" src="https://img.icons8.com/plasticine/400/000000/react.png" >
+        <span>SQLite</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sqlite.svg">
       </td>
       <td width="25%" align="center">
-        <span>Go Lang (GO)</span><br><br><br>
-        <img height="64px" src="https://img.icons8.com/color/144/000000/golang.png">
+        <span>Maven</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/maven.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java Spring Boot</span><br><br><br>
-        <img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+        <span>Hugging Face</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/hugging face.svg">
       </td>
       </tr>
   </tbody>
