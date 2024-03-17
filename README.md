@@ -34,11 +34,11 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>C</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/C.svg">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
+        <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
