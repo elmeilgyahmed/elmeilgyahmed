@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Passionate about software and its applications, specifically AI.
-- 🎓 &nbsp; Studied Communication and Information Engineering at [Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en)).
+- 🎓 &nbsp; Studied Communication and Information Engineering at [Zewail City of Science and Technology](https://www.zewailcity.edu.eg/main/index.php?lang=en).
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
