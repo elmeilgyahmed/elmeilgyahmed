@@ -102,8 +102,8 @@ Here are some ideas to get you started:
   ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/elmeilgyahmed/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmed.k.melegy@gmail.com.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/elmeilgyahmed/"><img src="https://img.shields.io/badge/-elmeilgy%20ahmed-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmed.k.melegy@gmail.com"><img src="https://img.shields.io/badge/-ahmed.k.melegy@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
