@@ -39,7 +39,7 @@ Here are some ideas to get you started:
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
