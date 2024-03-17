@@ -26,16 +26,16 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <span>PyTorch</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗧𝗲𝗻𝘀𝗼𝗿𝗳𝗹𝗼𝘄</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="25%" align="center">
-        <span>C</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/keras.svg">
+        <span>Flask</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
